@@ -1,0 +1,351 @@
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\roslyn\csc.exe
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\roslyn\vbc.exe
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\roslyn\VBCSCompiler.exe
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\ParkFacilAdm.dll.config
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\ParkFacilAdm.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\ParkFacilAdm.pdb
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Antlr3.Runtime.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\EntityFramework.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\EntityFramework.SqlServer.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.Security.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Newtonsoft.Json.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Owin.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\System.Web.Helpers.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\System.Web.Mvc.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\System.Web.Optimization.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\System.Web.Razor.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\System.Web.WebPages.Deployment.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\System.Web.WebPages.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\System.Web.WebPages.Razor.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\WebGrease.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Antlr3.Runtime.pdb
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\EntityFramework.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\EntityFramework.SqlServer.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.Security.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\Newtonsoft.Json.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\System.Web.Helpers.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\System.Web.Mvc.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\System.Web.Optimization.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\System.Web.Razor.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\System.Web.WebPages.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\System.Web.WebPages.Deployment.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\bin\System.Web.WebPages.Razor.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\obj\Debug\ParkFacilAdm.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\obj\Debug\ParkFacilAdm.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\obj\Debug\ParkFacilAdm.csproj.CopyComplete
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\obj\Debug\ParkFacilAdm.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\BlackSys\obj\Debug\ParkFacilAdm.pdb
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\csc.exe
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\vbc.exe
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\VBCSCompiler.exe
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\ParkFacilAdm.dll.config
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\ParkFacilAdm.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\ParkFacilAdm.pdb
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\ParkFacilAdm.dll.CodeAnalysisLog.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\ParkFacilAdm.dll.lastcodeanalysissucceeded
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Antlr3.Runtime.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\EntityFramework.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\EntityFramework.SqlServer.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Newtonsoft.Json.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Owin.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.Helpers.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.Mvc.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.Optimization.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.Razor.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.WebPages.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.WebPages.Razor.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\WebGrease.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Antlr3.Runtime.pdb
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\EntityFramework.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\EntityFramework.SqlServer.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Newtonsoft.Json.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.Helpers.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.Mvc.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.Optimization.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.Razor.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.WebPages.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.WebPages.Razor.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\obj\Debug\ParkFacilAdm.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\obj\Debug\ParkFacilAdm.csproj.CopyComplete
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\obj\Debug\ParkFacilAdm.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\obj\Debug\ParkFacilAdm.pdb
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\roslyn\csc.exe
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\roslyn\vbc.exe
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\roslyn\VBCSCompiler.exe
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\ParkFacilAdm.dll.config
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\ParkFacilAdm.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\ParkFacilAdm.pdb
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\ParkFacilAdm.dll.CodeAnalysisLog.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\ParkFacilAdm.dll.lastcodeanalysissucceeded
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Antlr3.Runtime.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\EntityFramework.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\EntityFramework.SqlServer.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.Security.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Newtonsoft.Json.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Owin.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\System.Web.Helpers.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\System.Web.Mvc.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\System.Web.Optimization.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\System.Web.Razor.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\System.Web.WebPages.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\System.Web.WebPages.Razor.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\WebGrease.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Antlr3.Runtime.pdb
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\EntityFramework.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\EntityFramework.SqlServer.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.Security.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\Newtonsoft.Json.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\System.Web.Helpers.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\System.Web.Mvc.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\System.Web.Optimization.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\System.Web.Razor.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\System.Web.WebPages.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\bin\System.Web.WebPages.Razor.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\obj\Debug\ParkFacilAdm.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\obj\Debug\ParkFacilAdm.csproj.CopyComplete
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\obj\Debug\ParkFacilAdm.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia\ParkFacilAdm\obj\Debug\ParkFacilAdm.pdb
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\roslyn\csc.exe
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\roslyn\vbc.exe
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\roslyn\VBCSCompiler.exe
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\ParkFacilAdm.dll.config
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\ParkFacilAdm.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\ParkFacilAdm.pdb
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\ParkFacilAdm.dll.CodeAnalysisLog.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\ParkFacilAdm.dll.lastcodeanalysissucceeded
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Antlr3.Runtime.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\EntityFramework.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\EntityFramework.SqlServer.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.Security.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Newtonsoft.Json.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Owin.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\System.Web.Helpers.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\System.Web.Mvc.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\System.Web.Optimization.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\System.Web.Razor.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\System.Web.WebPages.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\System.Web.WebPages.Razor.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\WebGrease.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Antlr3.Runtime.pdb
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\EntityFramework.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\EntityFramework.SqlServer.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.Security.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\Newtonsoft.Json.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\System.Web.Helpers.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\System.Web.Mvc.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\System.Web.Optimization.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\System.Web.Razor.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\System.Web.WebPages.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\bin\System.Web.WebPages.Razor.xml
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\obj\Debug\ParkFacilAdm.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\obj\Debug\ParkFacilAdm.csproj.CopyComplete
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\obj\Debug\ParkFacilAdm.dll
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm\ParkFacilAdm\obj\Debug\ParkFacilAdm.pdb
+C:\Users\eduar\Documents\Visual Studio 2017\Projects\ParkFacilAdm - copia (2)\ParkFacilAdm\obj\Debug\ParkFacilAdm.csprojResolveAssemblyReference.cache
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\csc.exe
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\System.Collections.Immutable.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\System.Reflection.Metadata.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\vbc.exe
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\VBCSCompiler.exe
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\roslyn\VBCSCompiler.exe.config
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\ParkFacilAdm.dll.config
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\ParkFacilAdm.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\ParkFacilAdm.pdb
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\ParkFacilAdm.dll.CodeAnalysisLog.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\ParkFacilAdm.dll.lastcodeanalysissucceeded
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Antlr3.Runtime.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\EntityFramework.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\EntityFramework.SqlServer.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.AspNet.Identity.Core.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.Cookies.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.Facebook.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.Google.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.OAuth.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.Twitter.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Web.Infrastructure.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Newtonsoft.Json.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Owin.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.Helpers.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.Mvc.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.Optimization.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.Razor.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.WebPages.Deployment.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.WebPages.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.WebPages.Razor.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\WebGrease.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Antlr3.Runtime.pdb
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\EntityFramework.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\EntityFramework.SqlServer.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.AspNet.Identity.Core.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.Cookies.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.Facebook.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.Google.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.OAuth.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Microsoft.Owin.Security.Twitter.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\Newtonsoft.Json.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.Helpers.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.Mvc.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.Optimization.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.Razor.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.WebPages.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.WebPages.Deployment.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\bin\System.Web.WebPages.Razor.xml
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\obj\Debug\ParkFacilAdm.csprojResolveAssemblyReference.cache
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\obj\Debug\ParkFacilAdm.csproj.CoreCompileInputs.cache
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\obj\Debug\ParkFacilAdm.csproj.CopyComplete
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\obj\Debug\ParkFacilAdm.dll
+C:\GITHUB\ParkFacilAdm - copia (2)\ParkFacilAdm\obj\Debug\ParkFacilAdm.pdb

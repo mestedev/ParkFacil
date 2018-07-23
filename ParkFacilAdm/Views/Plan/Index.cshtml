@@ -1,0 +1,102 @@
+﻿@model IEnumerable<ParkFacilAdm.Models.Plan>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h3 class="page-title">
+    Administración de planes
+</h3>
+
+<div class="col-md-12">
+    <div class="portlet box blue">
+        <div class="portlet-title">
+            <div class="caption">
+                <i class="fa fa-user"></i>Administracion de Planes
+            </div>
+            <div class="tools">
+                <a href="javascript:;" class="collapse"> </a>
+                <a href="javascript:;" class="fullscreen"> </a>
+            </div>
+            <div class="actions">
+                <div class="inputs pull-right">
+                    <a href="/Plan/Create" class="btn btn-circle btn-default btn-group-lg" style="margin-right:10px; margin-left:10px;">
+                        <i class="fa fa-plus-circle"></i> Nuevo
+                    </a>
+                </div>
+                <div class="inputs pull-right">
+                    @using (Html.BeginForm())
+                    {
+                        <div class="portlet-input input-inline input-medium">
+                            <div class="input-group">
+                                @Html.TextBox("Buscar", null, new { @class = "form-control input-circle-left", @placeholder = "Buscar", @title = "Buscar" })
+                                <span class="input-group-btn">
+                                    <button class="btn btn-circle-right btn-default" type="submit"><i class="fa fa-search"></i></button>
+                                </span>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div class="portlet-body">
+            <table class="table table-striped table-bordered table-hover dt-responsive" id="sys-table" cellspacing="0">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ID_PLAN)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NOMBRE_PLAN)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DESCRIPCION_PLAN)
+                    </th>
+                    <th>
+
+                        @Html.DisplayNameFor(model => model.PRECIO_PLAN)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.MINUTOS_GRATIS)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.MAXIMO)
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ID_PLAN)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DESCRIPCION_PLAN)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.PRECIO_PLAN)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.MINUTOS_GRATIS)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.MAXIMO)
+                        </td>
+                        <td>
+                            <div>
+                                @Html.AntiForgeryToken()
+                                @Html.ActionLink("Modificar", "Edit", "Plan", new { id = item.ID_PLAN }, htmlAttributes: new { @class = "btn btn-default btn-sm" })
+                                @Html.ActionLink("Eliminar", "Delete", "Plan", new { id = item.ID_PLAN }, htmlAttributes: new { @class = "btn btn-danger btn-sm" })
+                            </div>
+                        </td>
+                    </tr>
+                }
+
+
+            </table>
+        </div>
+    </div>
+</div>
